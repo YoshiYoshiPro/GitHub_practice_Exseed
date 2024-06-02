@@ -1,0 +1,2 @@
+# GitHub_practice_Exseed
+ExSeedの課題リポジトリ
